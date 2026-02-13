@@ -11,3 +11,4 @@ pinned: false
 
 # Health Query Chatbot
 This is a general health information chatbot built.
+link to UI:https://huggingface.co/spaces/MuhammadSaad1234/Health-Query-Chatbot
