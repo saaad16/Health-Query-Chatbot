@@ -10,4 +10,4 @@ pinned: false
 ---
 
 # Health Query Chatbot
-This is a general health information chatbot built for Task 4.
+This is a general health information chatbot built.
